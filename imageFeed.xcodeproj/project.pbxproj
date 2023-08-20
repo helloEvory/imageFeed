@@ -46,8 +46,8 @@
 				339D9F4F2A83BFBA00FD1E7A /* ImagesList */,
 				339D9F542A83BFBA00FD1E7A /* Assets.xcassets */,
 				339D9F552A83BFBA00FD1E7A /* AppDelegate.swift */,
-				339D9F562A83BFBA00FD1E7A /* Info.plist */,
 				339D9F572A83BFBA00FD1E7A /* SceneDelegate.swift */,
+				339D9F562A83BFBA00FD1E7A /* Info.plist */,
 			);
 			name = ImageFeed;
 			path = "../../../Downloads/imageFeed-sprint_08/ImageFeed";
