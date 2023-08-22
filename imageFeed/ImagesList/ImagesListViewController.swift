@@ -1,10 +1,3 @@
-//
-//  ImagesListCell.swift
-//  ImageFeed
-//
-//  Created by MacBook on 21.02.2023.
-//
-
 import UIKit
 
 class ImagesListViewController: UIViewController {
